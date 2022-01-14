@@ -110,7 +110,7 @@ a{
 }
 /* 主要按鈕 */
 .btn.btn-primary{
-	background-color: #d5a26f;
+	background-color: #d56f6f;
 	border: 1px solid #d5a26f;
 	color: #fefefe;
 }
@@ -121,7 +121,7 @@ a{
 /* 次要按鈕 */
 .btn.btn-secondary{
 	border: 1px solid #d5a26f;
-	color: #d5a26f;
+	color: #d56f6f;
 }
 .btn.btn-secondary:hover{
 	background-color: #d5a26f;
@@ -191,7 +191,7 @@ a{
 	display: inline-block;
 	width: 160px;
 	height: 64px;
-	background-image: url('../images/common/logo.jpg');
+	background-image: url('../images/common/logo-w.png');
 	background-size: contain;
 	background-position: center;
 	background-repeat: no-repeat;
